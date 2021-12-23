@@ -112,6 +112,8 @@ Os resultados das acurácias de cada técnica foram concentrados de forma tabula
 A última parte do projeto foi o desenvolvimento de API e utilização de Heroku para disponibilizar dados em Cloud. 
 É possível visualizar o dashboard disponível remoto por meio do link:
 
+https://credit-card-model-test.herokuapp.com/
+
 
 <h1 align="center">
   <img src="img/dashboard.png" />
