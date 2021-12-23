@@ -1,11 +1,7 @@
 import streamlit as st
 import pandas    as pd
 import numpy     as np
-import folium
-import geopandas
 
-from streamlit_folium import folium_static
-from folium.plugins   import MarkerCluster
 from datetime         import datetime
 
 import plotly.express as px
